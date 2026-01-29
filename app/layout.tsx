@@ -34,14 +34,6 @@ export const metadata: Metadata = {
     description: "Sua carteira digital para depositos e transferencias via PIX e criptomoedas.",
     url: "https://fluxpay.com",
     siteName: "fluxpay",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "fluxpay - Carteira Digital",
-      },
-    ],
     locale: "pt_BR",
     type: "website",
   },
@@ -49,7 +41,6 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "fluxpay - Carteira Digital",
     description: "Sua carteira digital para depositos e transferencias via PIX e criptomoedas.",
-    images: ["/og-image.png"],
     creator: "@fluxpay",
   },
   robots: {
